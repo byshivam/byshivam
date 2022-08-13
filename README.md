@@ -60,4 +60,3 @@
 - [Instagram](https://instagram.com/by.shivamyt)
 - [Telegram](https://t.me/byshivam)
 - [Email](mailto:byshivamofficial@gmail.com)
-- [Call me](tel:917217810625)
