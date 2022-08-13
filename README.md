@@ -8,11 +8,12 @@
 - 💝 Anime Lover 😐
 
 ### Recent Activities 
+
 - 🏧 [Made Instagram Automation](https://instagram.com/by.shivam_ai)
-- 👨‍🎓 High School Graduate
-- ☁ [Made Cloud Server](https://cloud.byshivam.ml/)
+- ☁ Made [Cloud Server](https://cloud.byshivam.ml/)
 - 🤖 Made [Whatsapp Bot](https://github.com/byshivam/L4663R-BOT-RE)
 - 🎮 Developed And Published Game on [Google Play Store](https://play.google.com/store/apps/details?id=com.byshivam.roadfall)
+- 👨‍🎓 High School Graduate
 
 ### Connect With Me ♥
 
@@ -44,7 +45,7 @@
 <!-- YOUTUBE:START -->
 - [NARUTO BLUE BIRD REMIX | 2022 REMIX | BY. SHIVAM](https://www.youtube.com/watch?v=YvuVkaFXDqI)
 - [BY.SHIVAM - ROAD FALL RUNNER - 3D CAR GAME!](https://www.youtube.com/watch?v=b2L61RSK4hM)
-- [Bella Ciao - Epic Orch Remix ( BY.SHIVAM REMIX ) | MONEY HEIST](https://www.youtube.com/watch?v=VGGWcy6__Fg](https://www.youtube.com/watch?v=JuV_MXrDTVw)
+- [Bella Ciao - Epic Orch Remix ( BY.SHIVAM REMIX ) | MONEY HEIST](https://www.youtube.com/watch?v=JuV_MXrDTVw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/byshivamrebooted)
