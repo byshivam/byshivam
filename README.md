@@ -9,7 +9,7 @@
 
 ### Recent Activities 
 
-- 🏧 [Made Instagram Automation](https://instagram.com/by.shivam_ai)
+- 🏧 Made [Instagram Automation](https://instagram.com/by.shivam_ai)
 - ☁ Made [Cloud Server](https://cloud.byshivam.ml/)
 - 💻 Made [Api Server](https://api.byshivam.ml/)
 - 🤖 Made [Whatsapp Bot](https://github.com/byshivam/L4663R-BOT-RE)
@@ -60,3 +60,4 @@
 - [Instagram](https://instagram.com/by.shivamyt)
 - [Telegram](https://t.me/byshivam)
 - [Email](mailto:byshivamofficial@gmail.com)
+- [Call me](tel:+917217810625)
