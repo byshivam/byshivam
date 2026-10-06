@@ -40,6 +40,7 @@
 | 🛡️ **Certified LLM Security Professional (CLLMSP)** | Red Team Leaders | [View](https://courses.redteamleaders.com/exam-completion/feddfac195cd9bbe) |
 | ☁️ **Microsoft Certified: Azure AI Engineer Associate** | Microsoft | [View](https://learn.microsoft.com/en-us/users/ShivamTayal-2362/credentials/5C4492F1E0528716) |
 | 🤖 **IBM AI Engineering Professional Certificate** | IBM · Coursera | [View](https://www.coursera.org/account/accomplishments/professional-cert/ZHMK88SJ8A06) |
+| 📈 **IBM AI Product Manager Professional Certificate** | IBM · Coursera | [View](https://coursera.org/share/bcd6c05444c2180bccffd40c77d60e7a) |
 | 🧪 **ISTQB Certified Tester – Advanced Level Test Analyst (CTAL-TA)** | ISTQB | [View](https://drive.google.com/file/d/1xYI-W6p2b2ErUGruMTzAk56x7ilpVZhn/view) |
 
 ---
