@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/heyshivam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=tayalshivam&style=for-the-badge&color=2ea043&label=Profile+views" />
 </p>
 
@@ -29,6 +30,15 @@
 | **LLM Red-Team Suite** | OWASP LLM Top 10 attacks on a banking assistant — prompt injection, data leakage, jailbreaks — with risk ratings | 📝 Planned |
 | **Agentic Workflow Evaluation** | Tests an HR / finance AI agent's tool choice, reasoning steps and failure handling, with tracing | 📝 Planned |
 | **AI Release-Readiness Report** | Combines evaluation results into a model card and Go / No-Go dashboard mapped to NIST AI RMF | 📝 Planned |
+
+---
+
+### 🏅 Certifications
+
+| Certification | Issuer | Verify |
+|---|---|---|
+| 🛡️ **Certified LLM Security Professional (CLLMSP)** | Red Team Leaders | [View](https://courses.redteamleaders.com/exam-completion/feddfac195cd9bbe) |
+| 🧪 **ISTQB Certified Tester – Advanced Level Test Analyst (CTAL-TA)** | ISTQB | [View](https://drive.google.com/file/d/1xYI-W6p2b2ErUGruMTzAk56x7ilpVZhn/view) |
 
 ---
 
