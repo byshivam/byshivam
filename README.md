@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/heyshivam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=tayalshivam&style=for-the-badge&color=2ea043&label=Profile+views" />
+  <img src="https://komarev.com/ghpvc/?username=byshivam&style=for-the-badge&color=2ea043&label=Profile+views" />
 </p>
 
 ---
@@ -26,7 +26,7 @@
 
 | Project | What it does | Status |
 |---|---|---|
-| **[Banking RAG Evaluation Suite](https://github.com/tayalshivam/banking-rag-eval)** | Q&A assistant over banking policies with a 24-case golden set, DeepEval LLM-judge + deterministic checks, and an automated GO / NO-GO release gate in CI | ✅ Live |
+| **[Banking RAG Evaluation Suite](https://github.com/byshivam/banking-rag-eval)** | Q&A assistant over banking policies with a 24-case golden set, DeepEval LLM-judge + deterministic checks, and an automated GO / NO-GO release gate in CI | ✅ Live |
 | **LLM Red-Team Suite** | OWASP LLM Top 10 attacks on a banking assistant — prompt injection, data leakage, jailbreaks — with risk ratings | 📝 Planned |
 | **Agentic Workflow Evaluation** | Tests an HR / finance AI agent's tool choice, reasoning steps and failure handling, with tracing | 📝 Planned |
 | **AI Release-Readiness Report** | Combines evaluation results into a model card and Go / No-Go dashboard mapped to NIST AI RMF | 📝 Planned |
@@ -82,7 +82,7 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tayalshivam&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=byshivam&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
