@@ -2,7 +2,7 @@
 <h3 align="center">AI Quality Engineer · Making LLMs and AI agents reliable, safe and release-ready</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=560&lines=LLM+%26+RAG+Evaluation;AI+Agent+Testing;Red-Teaming+%7C+Prompt+Injection;AI+Model+Risk+%26+Governance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=560&lines=LLM+%26+RAG+Evaluation;AI+Agent+Testing;Software+Test+Engineering;Red-Teaming+%7C+Prompt+Injection;AI+Model+Risk+%26+Governance" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -67,7 +67,9 @@
 **Quality Engineering Foundation**
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-43B02A?style=flat-square&logo=selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white" />
   <img src="https://img.shields.io/badge/TestNG-FF7F00?style=flat-square" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
