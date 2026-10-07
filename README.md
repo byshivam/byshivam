@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivam Tayal</h1>
+<h1 align="center">Hi 👋, I'm Shivam </h1>
 <h3 align="center">AI Quality Engineer · Making LLMs and AI agents reliable, safe and release-ready</h3>
 
 <p align="center">
