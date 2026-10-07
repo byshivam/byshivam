@@ -29,7 +29,7 @@
 | **[Banking RAG Evaluation Suite](https://github.com/byshivam/banking-rag-eval)** | Q&A assistant over banking policies with a 24-case golden set, DeepEval LLM-judge + deterministic checks, and an automated GO / NO-GO release gate in CI | ✅ Live |
 | **LLM Red-Team Suite** | OWASP LLM Top 10 assessment of a banking assistant agent, with guardrails and risk ratings | 🚧 In progress |
 | **[HR Agent Evaluation](https://github.com/byshivam/hr-agent-eval)** | 25 scenarios scoring every step of a tool-calling HR agent — tool choice, arguments, privacy, refusals and failure handling — with a GO / NO-GO gate | ✅ Live |
-| **[AI Release Readiness](https://github.com/byshivam/ai-release-readiness)** | Generates a model card, risk register and NIST AI RMF mapping from live evaluation results, with a daily GO / CONDITIONAL GO / NO-GO decision and dashboard | ✅ Live |
+| **[AI Release Readiness](https://github.com/byshivam/ai-release-readiness)** | Generates a model card, risk register and NIST AI RMF mapping from live evaluation results, with a daily GO / CONDITIONAL GO / NO-GO decision · [📊 live dashboard](https://byshivam.github.io/ai-release-readiness/) | ✅ Live |
 
 ---
 
