@@ -6,11 +6,11 @@ Focused on AI in banking and financial services: evaluation, model risk and rele
 
 &nbsp;
 
-| Project | |
+| Project | What it does |
 |---|---|
-| [**banking-rag-eval**](https://github.com/byshivam/banking-rag-eval) | RAG assistant scored on a golden set with DeepEval and deterministic checks. Every CI run ends in a GO / NO-GO gate. |
-| [**hr-agent-eval**](https://github.com/byshivam/hr-agent-eval) | Trace-level evaluation of a tool-calling agent: right tool, right arguments, privacy, refusals and honest failure handling. |
-| [**ai-release-readiness**](https://github.com/byshivam/ai-release-readiness) | Turns live eval results into a model card, risk register and NIST AI RMF mapping, with a daily release decision. [Dashboard →](https://byshivam.github.io/ai-release-readiness/) |
+| [**banking-rag-eval**](https://github.com/byshivam/banking-rag-eval) | RAG assistant scored on a golden set with DeepEval and deterministic checks. Every CI run ends in a GO / NO-GO gate and is archived, so regressions can be traced. |
+| [**hr-agent-eval**](https://github.com/byshivam/hr-agent-eval) | Trace-level evaluation of a tool-calling agent. Its first run caught the agent booking "next Monday" on a Friday; later, an identical re-run flipped GO → NO-GO. |
+| [**ai-release-readiness**](https://github.com/byshivam/ai-release-readiness) | Turns live eval results into a model card, risk register and NIST AI RMF mapping. It showed a "passing" hallucination check rested on just 2 cases. [Dashboard →](https://byshivam.github.io/ai-release-readiness/) |
 
 <details>
 <summary><b>Test automation foundation</b></summary>
